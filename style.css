@@ -15,6 +15,11 @@ a{
     color: white;
 }
 
+#url{
+    color:blue;
+
+}
+
 h1{
     font-size: 60px;
     font-weight: bold;
